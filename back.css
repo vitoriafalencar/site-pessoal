@@ -1,0 +1,14 @@
+
+
+body{
+    background-image: url(img/Meu\ projeto.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: scroll;
+    width: 100%;
+    max-width: 800px;
+    margin: 0;
+
+    }
+
